@@ -13,7 +13,7 @@
 # Mobile Application
 
 #### About App
-The FG Official App is powered by [`React Native`](https://reactnative.dev/) and [`Expo Go`](https://expo.dev/home), bringing the best of mobile app development to your fingertips. Currently in Beta, the app offers a range of exciting features similar to the FG web app, providing users with an intuitive and seamless experience across platforms. With ongoing updates and improvements, the app is designed to deliver an engaging, fast, and interactive experience, just like the FG web app [Learn More...](https://www.fgofficial.infinityfreeapp.com/article/fg-app-update-november-new-features-performance-improvements-and-customizations)
+The FG Official App is powered by [`React Native`](https://reactnative.dev/) and [`Expo Go`](https://expo.dev/home), bringing the best of mobile app development to your fingertips. Currently in Beta, the app offers a range of exciting features similar to the FG web app, providing users with an intuitive and seamless experience across platforms. With ongoing updates and improvements, the app is designed to deliver an engaging, fast, and interactive experience, just like the FG web app [Learn More...](https://fgofi.x10.mx/f/fg-app-2024)
 
 **`Version`** : Release 1.1.1 BETA
 
