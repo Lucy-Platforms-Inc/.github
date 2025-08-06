@@ -6,14 +6,14 @@
 
 # Description [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Lucy Incorporation** is the creative force behind *FG Multimedia* as well as the *BTSMP* website and web app. The name **"Lucy,"** which is a combination of the words **"LU'izania"** and **"Cy'rus,"** represents their joint vision and commitment. Lucy Inc. is dedicated to creating innovative software and technological solutions that improve user experience and offer useful tools for web application and multimedia requirements. via: [FGWiki](https://fgofi.x10.mx/f/2)
+**Lucy Incorporation** is the creative force behind *FG Multimedia* as well as the *BTSMP* website and web app. The name **"Lucy,"** which is a combination of the words **"LU'izania"** and **"Cy'rus,"** represents their joint vision and commitment. Lucy Inc. is dedicated to creating innovative software and technological solutions that improve user experience and offer useful tools for web application and multimedia requirements. via: [FGWiki](https://fgoffi.x10.bz/2)
 
 ![Logo](https://flighne.github.io/fg%20(1).png)
 
 # Mobile Application
 
 #### About App
-The FG Official App is powered by [`React Native`](https://reactnative.dev/) and [`Expo Go`](https://expo.dev/home), bringing the best of mobile app development to your fingertips. Currently in Beta, the app offers a range of exciting features similar to the FG web app, providing users with an intuitive and seamless experience across platforms. With ongoing updates and improvements, the app is designed to deliver an engaging, fast, and interactive experience, just like the FG web app [Learn More...](https://fgofi.x10.mx/f/fg-app-2024)
+The FG Official App is powered by [`React Native`](https://reactnative.dev/) and [`Expo Go`](https://expo.dev/home), bringing the best of mobile app development to your fingertips. Currently in Beta, the app offers a range of exciting features similar to the FG web app, providing users with an intuitive and seamless experience across platforms. With ongoing updates and improvements, the app is designed to deliver an engaging, fast, and interactive experience, just like the FG web app [Learn More...](https://fgoffi.x10.bz/fg-app-2024)
 
 **`Version`** : Release 1.1.1 BETA
 
@@ -41,7 +41,7 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px;">
-      <a href="https://fgofficial.infinityfreeapp.com/download" style="text-decoration: none; color: transparent;">
+      <a href="https://fgoffi.x10.bz/fg-app-download" style="text-decoration: none; color: transparent;">
         <img src="https://flighne.github.io/fg-logos/getitonAPPSIFY.png" alt="Get it On Appsify">
       </a>
       <p align="center">
@@ -54,20 +54,20 @@ The FG Official App is powered by [`React Native`](https://reactnative.dev/) and
 #### Main Page
 
 ```http
-https://www.fgofficial.infinityfreeapp.com
+https://fgoffi.x10.bz/home
 ```
 
 ## Support
 
-For support, email [support@fgofficial.infinityfreeapp.com](mailto:support@fgofficial.infinityfreeapp.com) or join our Slack channel.
-> View our [Privacy Policy](https://www.fgofficial.infinityfreeapp.com/Privacy) | [Status Page](https://status.fgofficial.infinityfreeapp.com)
+For support, email [support@fgofi.x10.bz](mailto:support@fgofi.x10.bz) or join our Slack channel.
+> View our [Privacy Policy](https://fgofi.x10.bz/Privacy) | [Status Page](https://status.fgofi.x10.bz)
 ## License
 
 
 <div align="left">
   <a href="https://choosealicense.com/licenses/mit/">MIT</a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.fgofficial.infinityfreeapp.com/">FGPEDIA</a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.fgofficial.infinityfreeapp.com/Verify">Lucy Licence</a>
+  <a href="https://fgofi.x10.bz/Verify">Lucy Licence</a>
 </div>
 
 ## Acknowledgements
@@ -82,7 +82,7 @@ For support, email [support@fgofficial.infinityfreeapp.com](mailto:support@fgoff
 [Link]: https://www.youtube.com/@fg_official0731 'Lucy Platforms, Inc. Youtube'
 
 - [@FLIGHNE](https://www.github.com/FLIGHNE) - GitHub Account
-- [@Zang](https://www.fgofficial.infinityfreeapp.com/Profile-com?userkey=4750127453&-Lucy=FG-Profile-View&tab=about) - FG Profile, No Github
+- [@Zang](https://fgofi.x10.bz/Profile-com?userkey=4750127453&-Lucy=FG-Profile-View&tab=about) - FG Profile, No Github
   
 
 # Our Socials
