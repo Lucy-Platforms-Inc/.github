@@ -59,8 +59,8 @@ https://fgoffi.x10.bz/home
 
 ## Support
 
-For support, email [support@fgofi.x10.bz](mailto:support@fgofi.x10.bz) or join our Slack channel.
-> View our [Privacy Policy](https://fgofi.x10.bz/Privacy) | [Status Page](https://status.fgofi.x10.bz)
+For support, email [support@fgofi.x10.bz](mailto:support@fgofficial.dpdns.org) or join our Slack channel.
+> View our [Privacy Policy](https://fgofi.x10.bz/Privacy) | [Status Page](https://status.fgofficial.dpdns.org)
 ## License
 
 
