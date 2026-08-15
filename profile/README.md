@@ -82,7 +82,7 @@ For support, email [support@fgofficial.dpdns.org](mailto:support@fgofficial.dpdn
 [Link]: https://www.youtube.com/@fg_official0731 'Lucy Platforms, Inc. Youtube'
 
 - [@FLIGHNE](https://www.github.com/FLIGHNE) - GitHub Account
-- [@Zang](https://fgofi.x10.bz/Profile-com?userkey=4750127453&-Lucy=FG-Profile-View&tab=about) - FG Profile, No Github
+- [@Zang](https://fgofficial.dpdns.org/Profile-com/4750127453/about) - FG Profile, No Github
   
 
 # Our Socials
